@@ -1,0 +1,24 @@
+.action-buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+.action-buttons button {
+  margin: 10px;
+  padding: 10px 15px;
+  background-color: #21262b;
+  color: white;
+  border-radius: 10px;
+  border: 0px;
+}
+.action-buttons button:hover {
+  background-color: #343a40;
+  cursor: pointer;
+}
+.action-buttons button:disabled {
+  background-color: #d6cbcb;
+  color: black;
+  cursor: not-allowed;
+}
+.action-buttons input {
+  margin-left: 10px;
+}

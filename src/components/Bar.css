@@ -1,0 +1,13 @@
+.bar {
+  flex: 2;
+  margin: 0 2px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border: 2px solid #262626;
+}
+.bar_value {
+  color: black;
+  margin-top: -20px;
+  width: 100%;
+  text-align: center;
+}
